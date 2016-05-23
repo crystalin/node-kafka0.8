@@ -21,7 +21,6 @@
     "buffer-crc32": "0.2.1",
     "binary": "0.3.0",
     "snappy": "2.1.2",
-    "hiredis": "0.1.16",
     "redis": "0.10.0"
   },
   "license": "MIT"
